@@ -26,12 +26,12 @@ function toggleMode() {
   if (html.classList.contains("light")) {
     img.setAttribute(
       "alt",
-      "Foto de Mayk sorrindo, usando jaqueta preta com fundo azul e rosa"
+      "Foto de Luiz Felipe sorrindo, usando camistea cinza com escritos em amarelo e fundo cinza"
     )
   } else {
     img.setAttribute(
       "alt",
-      "Foto de Luiz Felipe sorrindo, usando camistea cinza com escritos em amarelo e fundo cinza"
+      "Foto de Luiz Felipe sorrindo, usando camistea azul com fundo personalizdo azul"
     )
   }
 }
