@@ -9,8 +9,6 @@ Programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnolog
   <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
-## Demo
-https://devlinks.lzfelipe.dev
 
 ## 🚀 Tecnologias
 
